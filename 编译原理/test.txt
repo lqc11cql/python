@@ -1,0 +1,2 @@
+scale is (100,100);
+for t from 0 to 2*pi step pi/50 draw (cos(t),sin(t));
